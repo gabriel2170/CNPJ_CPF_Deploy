@@ -40,7 +40,7 @@ export default () => {
   return (
 
     <div className="interface">
-      <label>Validar CNPJ</label>
+      <label>N° Documento</label>
       <input type="text" id="cnpj" value={dados} onChange={(e) => setDados(e.target.value)} placehoder="000000-000" />
       <div className='botoes'>
         <button className="validar" onClick={() => validarCNPJ()}>Validar CNPJ</button>
