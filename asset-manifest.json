@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CNPJ_CPF_Deploy/static/css/main.83cfbac8.css",
-    "main.js": "/CNPJ_CPF_Deploy/static/js/main.814d9eb7.js",
+    "main.js": "/CNPJ_CPF_Deploy/static/js/main.4c8b64c2.js",
     "static/js/787.372ef77b.chunk.js": "/CNPJ_CPF_Deploy/static/js/787.372ef77b.chunk.js",
     "index.html": "/CNPJ_CPF_Deploy/index.html",
     "main.83cfbac8.css.map": "/CNPJ_CPF_Deploy/static/css/main.83cfbac8.css.map",
-    "main.814d9eb7.js.map": "/CNPJ_CPF_Deploy/static/js/main.814d9eb7.js.map",
+    "main.4c8b64c2.js.map": "/CNPJ_CPF_Deploy/static/js/main.4c8b64c2.js.map",
     "787.372ef77b.chunk.js.map": "/CNPJ_CPF_Deploy/static/js/787.372ef77b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83cfbac8.css",
-    "static/js/main.814d9eb7.js"
+    "static/js/main.4c8b64c2.js"
   ]
 }
